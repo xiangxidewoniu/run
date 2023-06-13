@@ -70,13 +70,3 @@
 - 关于**怎么润**，请参考全球润友自身的经历 [润学实例](润学实例)：
 
 最后，茶余饭后，博君一笑，可以访问 [咱们赢麻了知名言论合集](张维为陈平曹丰泽等知名言论收集), [外交部赢化论精选](外交部发言精选)。
-
-## Star 历史
-
-[![Star History Chart](https://api.star-history.com/svg?repos=The-Run-Philosophy-Organization/run&type=Date)](https://star-history.com/#The-Run-Philosophy-Organization/run&Date)
-
-## 协议
-
-[![LICENSE](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
-
-本作品采用[知识共享署名 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)进行许可。
